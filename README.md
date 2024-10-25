@@ -2,26 +2,26 @@
 
 ## About me
 
-Hello there! I'm Asha, a software developer passionate about crafting elegant solutions to complex problems. With a keen eye for detail and a love for clean code, I strive to make meaningful contributions to the world of technology through my work on GitHub.
+Hello! I’m Nishat Jahan Asha, a software developer driven by a passion for solving complex problems with clean, efficient solutions. Here’s a snapshot of my journey:
 
-💻 On my GitHub profile, you'll find a collection of projects ranging from web applications to command-line tools. Each project represents a journey of learning and growth, and I'm excited to share them with the community.
+- **Technical Skills:** Skilled in C#, JavaScript, React.js, and SQL, with a strong foundation in software development best practices and a dedication to writing clean, maintainable code.
+- **Project Experience:** My GitHub showcases a range of projects, from dynamic web applications to command-line tools, each reflecting my commitment to continuous learning and refinement.
+- **Continuous Growth:** I’m actively expanding my skill set and staying updated on emerging technologies, always striving to improve and deliver impactful work.
 
-Let's connect! Whether you have a project idea, want to collaborate on a project, or just want to chat about technology, feel free to reach out to me via email or connect with me on LinkedIn.
+I'm excited to connect, collaborate on projects, or discuss new ideas. Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/nishat-jahan-asha-1a3ab4288/). Let’s see what we can build together!
 ##
 
 ### My skills
 <p align="center">
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=ffffff&color=9a00cd"/>&nbsp;
-  <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=ffffff&color=9a00cd"/>
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=ffffff&color=94def3"/>&nbsp;
 </p>
 
 ##
