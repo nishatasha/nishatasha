@@ -1,4 +1,4 @@
-![alt text](img.jpg)
+![alt text](picture.jpg)
 
 ## About me
 
