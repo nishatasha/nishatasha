@@ -13,15 +13,15 @@ I'm excited to connect, collaborate on projects, or discuss new ideas. Feel free
 
 ### My skills
 <p align="center">
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=ffffff&color=94def3"/>&nbsp;
-  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=ffffff&color=94def3"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=ffffff&color=38EDF0"/>&nbsp;
+  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=ffffff&color=38EDF0"/>&nbsp;
 </p>
 
 ##
