@@ -1,4 +1,4 @@
-![alt text](picture.jpg)
+![alt text](picture1.jpg)
 
 ## About me
 
@@ -26,7 +26,14 @@ I'm excited to connect, collaborate on projects, or discuss new ideas. Feel free
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishatasha&bg_color=000000&color=fff0f8&line=9a00cd&point=fbeefb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  
+  ![nishatasha's Stats](https://github-readme-stats.vercel.app/api?username=nishatasha&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+  
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishatasha&bg_color=050505&color=e7f7f8&line=38edf0&point=d6f0ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 ### My stats
 
